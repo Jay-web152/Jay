@@ -12,3 +12,5 @@ echo "새 컨테이너 빌드 후 실행..."
 docker compose up -d --build
 
 echo "배포 완료!"
+
+echo "한번 수정해 볼까?"
