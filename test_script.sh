@@ -3,7 +3,7 @@ set -e  # 중간에 에러나면 스크립트 종료
 
 echo "배포 스크립트 시작!"
 
-cd /home/jnu/docker-compose-test
+cd /home/jnu/docker-compose-test/multi-container-app
 
 echo "기존 컨테이너 종료..."
 docker compose down
