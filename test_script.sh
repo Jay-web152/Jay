@@ -14,3 +14,5 @@ docker compose up -d --build
 echo "배포 완료!"
 
 echo "한번 수정해 볼까?"
+
+echo "마지막 테스트!"
